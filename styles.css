@@ -8,7 +8,7 @@
 
 body {
     font-size: 1rem;
-    background-color: #009198;
+    background-color: #063940;
 
     font-family: 'Montserrat';
 }
@@ -18,7 +18,7 @@ header {
     justify-content: space-between;
     padding: 0 40px;
     border-bottom: 2px solid #000;
-    background-color: #09a4ab;
+    background-color: #195E63;
     align-items: center;
     height: auto;
     /* ou simplesmente remova o height */
@@ -149,7 +149,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #09a4ab;
+    background-color: #3E848C;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -160,7 +160,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #009198;
+    background-color: #195E63;
     border: none;
     font-weight: bold;
 }
@@ -196,15 +196,15 @@ h2 {
 }
 
 .alto-contraste {
-    background-color: #000;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
 }
 
 .alto-contraste header,
 .alto-contraste footer,
 .alto-contraste .formulario {
-    background-color: #000;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
 }
 
 .alto-contraste .nav-link {
